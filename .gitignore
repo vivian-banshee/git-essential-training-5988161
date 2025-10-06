@@ -3,5 +3,4 @@ node_modules
 .tmp
 npm-debug.log
 
-test_log_2.log
 Second_Folder/*.log
